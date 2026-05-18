@@ -158,14 +158,4 @@ construction_erp_backend/
 └── .gitignore
 ```
 
----
 
-## GitHub’a yükleme
-
-Adım adım rehber: **[docs/GITHUB_PUSH.md](docs/GITHUB_PUSH.md)**
-
----
-
-## Lisans
-
-Bu proje eğitim / portföy amaçlıdır. Kullanım koşullarını kendi lisansınızla belirleyebilirsiniz.
