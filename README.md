@@ -1,6 +1,6 @@
 # Construction ERP Backend
 
-İnşaat sektörüne yönelik Gelistirmis oldugum projem **ERP (Kurumsal Kaynak Planlama)** backend API ve web panelinden olusmaktadir. FastAPI ile REST servisleri, PostgreSQL ile kalıcı veri kullanilmis olup, JWT ile kimlik doğrulama sistemleri eklenerek guvenli giris ve yetkisiz islemelrin onune gecilmistir son test ve entegrasyon adimlari yapilmistir.
+İnşaat sektörüne yönelik Gelistirmis oldugum projem **Construction ERP Servis** API ve web panelinden olusmaktadir. FastAPI ile REST servisleri olusturup entegrasyonu yapilmistir, PostgreSQL ile kalıcı veri kullanilmis olup, JWT ile kimlik doğrulama sistemleri eklenerek guvenli giris ve yetkisiz islemelerin onune gecilmistir/ Proje sektorel olrak bir demo niteligi tasimaktadir.
 
 ---
 
