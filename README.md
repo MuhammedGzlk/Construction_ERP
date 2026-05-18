@@ -1,6 +1,6 @@
 # Construction ERP Backend
 
-İnşaat sektörüne yönelik Gelistirmis oldugum projem **ERP (Kurumsal Kaynak Planlama)** backend API ve web panelinden olusmaktadir. FastAPI ile REST servisleri, PostgreSQL ile kalıcı veri, JWT ile kimlik doğrulama sistemleri entegrasyonu yapilmis ve test edilmis bulunmaktadir.
+İnşaat sektörüne yönelik Gelistirmis oldugum projem **ERP (Kurumsal Kaynak Planlama)** backend API ve web panelinden olusmaktadir. FastAPI ile REST servisleri, PostgreSQL ile kalıcı veri kullanilmis olup, JWT ile kimlik doğrulama sistemleri eklenerek guvenli giris ve yetkisiz islemelrin onune gecilmistir son test ve entegrasyon adimlari yapilmistir.
 
 ---
 
@@ -17,13 +17,9 @@
 | **Raporlar** | Bütçe ve kaza analizi |
 | **Dashboard** | Tek sayfalık web arayüzü (`/dashboard`) |
 
-Detaylı dokümantasyon ve ekran görüntüsü rehberi: **[docs/README.md](docs/README.md)**
-
 ---
 
-## Ekran görüntüleri
-
-Aşağıdaki görselleri `docs/screenshots/` altına ekledikten sonra burada görünür. Dosya adları ve klasör yapısı için: [docs/screenshots/README.md](docs/screenshots/README.md)
+## Ekran görüntüleri:
 
 ### Dashboard
 <img width="1920" height="1053" alt="Screenshot from 2026-05-18 15-49-04" src="https://github.com/user-attachments/assets/607e4713-5389-4072-8fe8-51a19026ab60" />
