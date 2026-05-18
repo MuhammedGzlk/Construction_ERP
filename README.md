@@ -1,6 +1,6 @@
 # Construction ERP Backend
 
-İnşaat sektörüne yönelik **ERP (Kurumsal Kaynak Planlama)** backend API ve web paneli. FastAPI ile REST servisleri, PostgreSQL ile kalıcı veri, JWT ile kimlik doğrulama.
+İnşaat sektörüne yönelik Gelistirmis oldugum projem **ERP (Kurumsal Kaynak Planlama)** backend API ve web panelinden olusmaktadir. FastAPI ile REST servisleri, PostgreSQL ile kalıcı veri, JWT ile kimlik doğrulama sistemleri entegrasyonu yapilmis ve test edilmis bulunmaktadir.
 
 ---
 
@@ -25,34 +25,30 @@ Detaylı dokümantasyon ve ekran görüntüsü rehberi: **[docs/README.md](docs/
 
 Aşağıdaki görselleri `docs/screenshots/` altına ekledikten sonra burada görünür. Dosya adları ve klasör yapısı için: [docs/screenshots/README.md](docs/screenshots/README.md)
 
-### Giriş
-![Giriş ekranı](docs/screenshots/01-login/login.png)
-
 ### Dashboard
-![Dashboard](docs/screenshots/02-dashboard/dashboard.png)
+<img width="1920" height="1053" alt="Screenshot from 2026-05-18 15-49-04" src="https://github.com/user-attachments/assets/607e4713-5389-4072-8fe8-51a19026ab60" />
+
 
 ### Çalışanlar
-![Çalışanlar](docs/screenshots/03-employees/employees.png)
+<img width="1920" height="1053" alt="Screenshot from 2026-05-18 15-49-26" src="https://github.com/user-attachments/assets/d5f8fe65-6657-4a73-b836-8274b257805b" />
 
 ### Projeler
-![Projeler](docs/screenshots/04-projects/projects.png)
+<img width="1920" height="1053" alt="Screenshot from 2026-05-18 15-49-34" src="https://github.com/user-attachments/assets/b5976788-2641-46ce-8e6b-a32e0b8e4468" />
+
 
 ### Envanter
-![Envanter](docs/screenshots/05-inventory/inventory.png)
+<img width="1920" height="1053" alt="Screenshot from 2026-05-18 15-49-56" src="https://github.com/user-attachments/assets/b03bfbb7-7bd2-4971-bf93-0e45cba45b93" />
+
 
 ### HR / İSG
-![HR ve İSG](docs/screenshots/06-hr-hse/hr-hse.png)
+<img width="1920" height="1053" alt="Screenshot from 2026-05-18 15-50-15" src="https://github.com/user-attachments/assets/3ac3fdea-78ca-4b6e-9933-c5855946da65" />
 
 ### Finans
-![Finans](docs/screenshots/07-finance/finance.png)
+<img width="1920" height="1053" alt="Screenshot from 2026-05-18 15-50-08" src="https://github.com/user-attachments/assets/08ca33bc-572c-4bca-bf80-db67a4c90425" />
 
 ### Raporlar
-![Raporlar](docs/screenshots/08-reports/reports.png)
+<img width="1920" height="1053" alt="Screenshot from 2026-05-18 15-50-15" src="https://github.com/user-attachments/assets/28921e7c-b3f0-4dfa-a3c6-53bf4c3578ae" />
 
-### API dokümantasyonu (Swagger)
-![Swagger UI](docs/screenshots/09-api-docs/swagger.png)
-
-> Görseller henüz eklenmediyse GitHub’da kırık link görünebilir; PNG dosyalarını ilgili klasörlere koymanız yeterlidir.
 
 ---
 
