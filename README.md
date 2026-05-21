@@ -21,6 +21,10 @@
 
 ## Ekran görüntüleri:
 
+### ER Diagram
+<img width="1909" height="917" alt="Screenshot from 2026-05-21 16-51-37" src="https://github.com/user-attachments/assets/c90e32b4-cc46-48e1-b067-a6281fe0b424" />
+
+
 ### Dashboard
 <img width="1920" height="1053" alt="Screenshot from 2026-05-18 15-49-04" src="https://github.com/user-attachments/assets/607e4713-5389-4072-8fe8-51a19026ab60" />
 
